@@ -1,4 +1,4 @@
-# Secure-Electronic-Voting \\ Microsoft codefundoo++
+# Secure-Electronic-Voting \\ Microsoft codefundo++
 
 Proposing a model consists of a app and two blockchains, one for maintaing a *distributive ledger* of vote cast and other for *verification, authentication* and *maintainance* of Voter IDs which also serve the purpose of electoral list.
 
